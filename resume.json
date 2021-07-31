@@ -1,0 +1,87 @@
+{
+	"basics": {
+		"name": "MITTAPELLI MANITEJA",
+		"label": "Student",
+		"picture": "https://media-exp1.licdn.com/dms/image/C5603AQEOIOS4vOryjg/profile-displayphoto-shrink_400_400/0/1606063767252?e=1632960000&v=beta&t=_AaJ9wDA8m8aHmY3kLEHUA_lIlRIVbXb-mmSsfqVWi8",
+		"email": "2020KUCP1044@iiitkota.ac.in",
+		"phone": "+91 8500071412",
+		"website": "",
+		"summary": "I am a student of IIIT kota persuing B-Tech in computer science and engineering",
+		"location": {
+			"address": "2-2-138,Gandhi road,korutla,dist:jagtial,state:Telangana",
+			"postalCode": "505-326",
+			"city": "KORUTLA",
+			"countryCode": "INDIA",
+			"region": "TELANGANA"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "Maniteja Mittapelli",
+				"url": "https://twitter.com/ManitejaMittap1"
+			},
+			{
+				"network": "Github",
+				"username": "Maniteja Mittapelli",
+				"url": "https://github.com/maniteja2002"
+			},
+			{
+				"network": "linkedin",
+				"username": "Maniteja Mittapelli",
+				"url": "https://www.linkedin.com/in/maniteja-mittapelli-513680200/"
+			},
+			{
+				"network": "Instagram",
+				"username": "SONU_4_MANI",
+				"url": "https://www.instagram.com/sonu_4_mani/"
+			}
+		]
+	},
+	"work": [{
+		"company": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": [""]
+	}],
+	"volunteer": [{
+		"organization": "",
+		"position": "",
+		"website": "",
+		"startDate": "",
+		"endDate": "",
+		"summary": "",
+		"highlights": []
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 //Date",
+		"endDate": "----",
+		"gpa": "7.64",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+		"title": "",
+		"details": "",
+		"link": "https://github.com/maniteja2002"
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}],
+	"references": []
+}
